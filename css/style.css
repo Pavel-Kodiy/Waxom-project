@@ -1643,7 +1643,7 @@ h1, h2, h3, h4, h5, h6 {
 .partners {
   width: 100%;
   min-height: 490px;
-  background: url("/img/bg/bg_sponsor.png") 0 0/cover no-repeat;
+  background: url("bg_sponsor.png") 0 0/cover no-repeat;
 }
 .partners__container {
   max-width: 1180px;
