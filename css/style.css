@@ -2396,6 +2396,11 @@ h1, h2, h3, h4, h5, h6 {
   .container .burger__menu.active span {
     display: none;
   }
+  
+  .conteiner__text{
+    position: absolute;
+    top: 300px;
+   }
 
   .conteiner__text .text .first {
     font-size: 20px;
@@ -2416,6 +2421,11 @@ h1, h2, h3, h4, h5, h6 {
   .conteiner__text .ideas__conteiner_title {
     font-size: 26px;
   }
+  
+  .container__slider .slider .slick-dots{
+    position: absolute;
+    top: 550px;
+    }
 
   .container__slider .slider .slick-arrow.slick-prev {
     opacity: 0;
