@@ -1505,7 +1505,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 22px;
   height: 22px;
   content: "";
-  background: url("img/arrows/arrow_normal.png");
+  background: url("Waxom-project/img/arrows/arrow_normal.png");
   position: absolute;
   bottom: -40px;
   right: 50.5%;
@@ -1516,7 +1516,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 22px;
   height: 22px;
   content: "";
-  background: url("img/arrows/arrow_normal.png");
+  background: url("Waxom-project/img/arrows/arrow_normal.png");
   position: absolute;
   bottom: -40px;
   left: 50.5%;
@@ -1526,12 +1526,12 @@ h1, h2, h3, h4, h5, h6 {
           transform: rotate(180deg);
 }
 .posts__container_slider .slick-arrow.slick-prev:hover {
-  background: url("img/arrows/arrow_hover.png");
+  background: url("Waxom-project/img/arrows/arrow_hover.png");
   -webkit-transform: rotate(-180deg);
           transform: rotate(-180deg);
 }
 .posts__container_slider .slick-arrow.slick-next:hover {
-  background: url("img/arrows/arrow_hover.png");
+  background: url("Waxom-project/img/arrows/arrow_hover.png");
   -webkit-transform: rotate(360deg);
           transform: rotate(360deg);
 }
@@ -1643,7 +1643,7 @@ h1, h2, h3, h4, h5, h6 {
 .partners {
   width: 100%;
   min-height: 490px;
-  background: url("img/bg/bg_sponsor.png") 0 0/cover no-repeat;
+  background: url("Waxom-project/img/bg/bg_sponsor.png") 0 0/cover no-repeat;
 }
 .partners__container {
   max-width: 1180px;
