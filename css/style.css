@@ -230,13 +230,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 .slider .slick-arrow.slick-prev {
   left: 10%;
-  background: url("img/arrows/arrow_l.svg") 0 0/100% no-repeat;
+  background: url("../img/arrows/arrow_l.svg") 0 0/100% no-repeat;
   -webkit-transition-duration: 0.3s;
           transition-duration: 0.3s;
 }
 .slider .slick-arrow.slick-next {
   right: 10%;
-  background: url("img/arrows/arrow_r.svg") 0 0/100% no-repeat;
+  background: url("../img/arrows/arrow_r.svg") 0 0/100% no-repeat;
   -webkit-transition-duration: 0.3s;
           transition-duration: 0.3s;
 }
